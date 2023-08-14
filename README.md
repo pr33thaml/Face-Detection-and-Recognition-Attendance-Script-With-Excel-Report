@@ -4,11 +4,11 @@ This is the third version of my OpenCV python program, I have combined scripts f
 - Edit this line with the png file path, before running the program: [line: 188]
 - icon_image = Image.open(r"your logo/icon image path here")
 
-## how to run the program?
+# how to run the program?
 
 - Make sure to install Python 3.7 or 3.8 | check the version using this command in cmd: "python --version"
 
-# libraries and software components needed
+### libraries and software components needed
        
 - ******openpyxl library******
     - It helps read, write, and modify Excel spreadsheets.

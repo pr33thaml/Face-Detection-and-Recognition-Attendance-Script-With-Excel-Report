@@ -4,7 +4,7 @@ This is the third version of my OpenCV python program, I have combined scripts f
 - Edit this line with the png file path, before running the program: [line: 188]
 - icon_image = Image.open(r"your logo/icon image path here")
 
-#how to use the program?
+##how to run the program?
 
 - Make sure to install Python 3.7 or 3.8 | check the version using this command in cmd: "python --version"
 
@@ -33,4 +33,7 @@ This is the third version of my OpenCV python program, I have combined scripts f
     - Specifically designed for face detection and recognition in images. It finds faces and can even identify who they belong to.
     - Install face_recognition lib using this command in cmd: pip install face_recognition
     - if you get any error make sure that CMake & Visual Studio C++ are both installed properly and also make sure python version is either 3.7 or 3.8 and no the latest version.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit pull requests.
 
